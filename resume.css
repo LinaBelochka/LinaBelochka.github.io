@@ -1,8 +1,10 @@
+
 body{
     background: repeating-linear-gradient( #dedcf7  ,#f4e9f1  ) fixed; 
     font-family: 'Roboto', sans-serif;
     margin-left: 50px;  
-   
+    margin-bottom: 100px;
+  
      
 }
 p{
@@ -76,4 +78,11 @@ padding-top: 0px;
 }
 .schul{
 
+}
+ul a {
+  
+  color:black
+}
+.portfolio{
+  font-size:80%
 }
