@@ -1,0 +1,79 @@
+body{
+    background: repeating-linear-gradient( #dedcf7  ,#f4e9f1  ) fixed; 
+    font-family: 'Roboto', sans-serif;
+    margin-left: 50px;  
+   
+     
+}
+p{
+  font-size: 11px;
+}
+.photo{
+  border-radius: 5%;
+  box-shadow: 5px 5px 20px rgb(15, 15, 15);
+  margin-right: 30px;
+ 
+}
+.shapka{
+display: flex;
+margin-top: 40px;
+}
+.name{
+  
+  margin-top: 0;
+}
+b{color: rgb(122, 111, 111);}
+
+
+ .list{
+  list-style: none;
+  display: inline;
+ }
+
+ table{
+    border-collapse: collapse;
+     
+ }
+
+table .call {
+  border-color: black;
+  vertical-align: text-top;
+  
+}
+.call{
+  vertical-align: top;
+  margin-top: 0%;
+  
+}
+table .Sofiy {
+  border-color: black;
+  vertical-align: text-top;
+
+}
+.experience-call{
+  margin-bottom: 5px;
+}
+.otstup{
+ padding: 20px;
+ padding-top: 1.9%;
+}
+.font{
+font-size: 70%;
+  
+}
+
+ .list li{
+  font-size: 80%;
+}
+
+table{
+  margin-bottom: 0px;
+  padding-bottom: 0;
+}
+.education{
+margin-top: 0px;
+padding-top: 0px;
+}
+.schul{
+
+}
